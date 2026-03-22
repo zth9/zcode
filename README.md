@@ -70,7 +70,7 @@ zcode "帮我看看当前目录结构"
 - 输入 UserPrompt
 - Agent 调用 LLM 进行思考
 - Agent 决定下一步 Action
-- 调用 Tolls 并 Observe 结果或者直接退出循环
+- 调用 Tools 并 Observe 结果或者直接退出循环
 
 ### 3.2 Tools Design
 
